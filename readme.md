@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates the use of Git and GitHub for version control. It includes a Python script for handling coordinates and an image.
 
-![Image](img\Screenshot 2025-03-19 122650.png)
+![Image](https://github.com/dorukocal13/gmt211_tutorial_dorukocal/blob/d87fc61648902715ba02a2dc1f2e02dcffe603d4/img/Screenshot%202025-03-19%20122650.png)
 
 ## Git Commands Used
 | Command | Description |
