@@ -1,20 +1,18 @@
 # GMT211 GitHub Tutorial
 
 ## Overview
-This project demonstrates the use of Git and GitHub for version control. It includes a Python script for handling coordinates and a sample image.
+This project demonstrates the use of Git and GitHub for version control. It includes a Python script for handling coordinates and an image.
 
-## Project Structure
-## Image
-![Sample Image](img/wxp%20walp.jpg)
+![Image](img\Screenshot 2025-03-19 122650.png)
 
 ## Git Commands Used
 | Command | Description |
 | ------- | ----------- |
 | `git init` | Initializes a new Git repository |
 | `git add .` | Stages all changes in the directory for the next commit |
-| `git commit -m "message"` | Commits the staged changes with a message |
-| `git push origin main` | Pushes the committed changes to the remote repository on GitHub |
-| `git pull origin main` | Pulls the latest changes from the remote repository |
+| `git commit -m "your commit message"` | Commits the staged changes with a message |
+| `git push origin master` | Pushes the committed changes to the remote repository on GitHub |
+| `git pull origin master` | Pulls the latest changes from the remote repository |
 
 ## Local Git Workflow vs GitHub Workflow
 - **Local Git Workflow**: Involves using Git commands to manage version control on your local machine. You can create commits, branches, and merge changes without needing an internet connection.
